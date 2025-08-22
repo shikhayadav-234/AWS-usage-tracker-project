@@ -37,11 +37,6 @@ linux-mini-project/
 
 ---
 
-## 📸 Screenshots / Demo  
-(Add screenshots or terminal outputs here if needed)  
-
----
-
 ## 📌 Future Enhancements  
 - Automate report generation with cron  
 - Add email/SNS notification for alerts  
